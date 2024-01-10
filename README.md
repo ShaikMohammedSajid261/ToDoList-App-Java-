@@ -34,3 +34,5 @@ Testing:
 
 Run the application on an Android emulator or connect a physical Android device to your computer.
 Resolve any errors or issues that may arise during compilation and execution.
+
+Note:The exection of the app is located in doit->appsrc file
